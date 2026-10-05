@@ -124,7 +124,7 @@ Estudo nos dias úteis, em blocos de cerca de 3 horas, sempre começando com 30 
         <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img alt="Status" src="https://img.shields.io/badge/status-em%20andamento-E0A526?style=flat-square" />
       </p>
-      <a href="https://github.com/RychardVinicius14/exercicios-python">Ver repositório →</a>
+      <a https://github.com/RychardVincius14/Exerc-cios-de-python ">Ver repositório →</a>
     </td>
   </tr>
   <tr>
